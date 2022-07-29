@@ -1,4 +1,4 @@
-#Sobre mim
+# Sobre mim
 
 - 👋, I’m @ProfFabiL
 - 👀 Me interesso por entender mentes e máquinas.
