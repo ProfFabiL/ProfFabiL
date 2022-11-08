@@ -1,7 +1,7 @@
 # Sobre mim
 
 - 👋, I’m @ProfFabiL
-- 👀 Me interesso por entender mentes e máquinas.
+- 👀 Me interessa entender mentes e máquinas.
 - Meu e-mail para contato é fabiana.lavarda@escola.pr.gov.br
 - 
 ProfFabiL/ProfFabiL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
